@@ -1,5 +1,3 @@
-// ...existing code...
-
 # React Tailwind Real‑Estate App
 
 A minimal, production-minded React starter scaffolded with Vite and Tailwind CSS for building responsive real‑estate style frontends. Includes a simple page/component layout, ESLint rules, and example pages to accelerate development.
